@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 
 APIKEY: cdbabcd865b54d2e9243c3763f8540bf
 # futbolizadosweb
+# futbolizadosweb
