@@ -20,8 +20,8 @@ const useFetch = (url, options = {}) => {
     };
 
     if (url) fetchData();
-    console.log(data)
-  }, [url, options]);
+    
+  }, []);
 
   return { data, loading, error };
 };
